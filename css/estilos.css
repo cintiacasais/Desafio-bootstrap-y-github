@@ -1,0 +1,257 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
+/*GENERALES*/
+
+h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    margin-top: 25px;
+    color: white;
+}
+
+/*NAVEGACION*/
+nav{
+    background-color: black;
+    height: 60px;
+
+}
+
+.logo{
+    background-color: white;
+    height: 50px;
+    width: auto;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+
+body{
+    position: relative;
+}
+
+/*ENCABEZADO*/
+
+.header{
+    background-color: #F3F5F7;
+}
+
+.encabezado{
+    background-image: url(https://images.prd.kavak.io/eyJidWNrZXQiOiJrYXZhay1pbWFnZXMiLCJrZXkiOiJhci9hc3NldHMvaW1hZ2VzL2hvbWUvd2VicC9tYWluLWhlcm8tdjItbGcud2VicCIsImVkaXRzIjp7fX0=);
+    background-size: cover ;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.slogan{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 45px;
+    color: #293AD2;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.post-slogan{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    position: relative;
+    padding-left: 50px;
+}
+
+.link-slogan{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 300px;
+    padding-top: 50px;
+}
+
+.boton-comprar-auto{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    height: 50px;
+    width: 300px;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+.boton-comprar-auto:hover{
+    background-color: #293AD2;
+    color: white;
+}
+
+.titulo{
+    background-color: black;
+    color: #F3F5F7;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.imagen-razones{
+    height: 150px;
+    width: auto;
+    border-radius: 20px;
+}
+
+.razones{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: #293AD2;
+}
+
+.texto-razones{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.boton-comprar-auto-2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    height: 50px;
+    width: 300px;
+}
+.boton-comprar-auto-2:hover{
+    background-color: #293AD2;
+    color: white;
+}
+
+.fondo-section-2{
+    background-color: black;
+    color: #F3F5F7;
+}
+
+.titulo-section-2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+
+.texto-section-2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.linea-section-2{
+    width: 300px;
+    margin-left: 250px;
+}
+
+.imagen-section-2{
+    width: 1000px;
+    padding-top: 100px;
+}
+
+.boton-vender{
+    background-color: black;
+    height: 100px;
+}
+
+.boton-vende-auto{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    background-color: #F3F5F7;
+    color: black;
+    border-radius: 15px;
+    height: 50px;
+    width: 300px;
+}
+
+.boton-vende-auto:hover{
+    background-color: #293AD2;
+    color: #F3F5F7;
+}
+
+.section-3{
+    background-color: #F3F5F7;
+}
+
+.imagen-section-3{
+    width: 400px;
+}
+
+.titulo-section-3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    color: #293AD2;
+}
+
+.texto-section-3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+.boton-ver-autos{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    background-color: black;
+    color: #F3F5F7;
+    border-radius: 15px;
+    height: 50px;
+    width: 300px;
+}
+
+.boton-ver-autos:hover{
+    background-color: #293AD2;
+    color: #F3F5F7;
+}
+
+.section-4{
+    background-color: black;
+    height: 500px;
+}
+
+.titulo-section-4{
+    color: #F3F5F7;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+
+.contenedor-section-4{
+    background-color: #F3F5F7;
+    border-radius: 5px;
+    width: 350px;
+    height: 400px;
+    margin-left: 50px;
+}
+
+.imagen-section-4{
+    width: 300px;
+}
+
+.titulo-sedes{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.texto-sedes{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: gray;
+
+}
+
+.boton-sedes-ver{
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    background-color: black;
+    color: #F3F5F7;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 20px;
+}
+
+.boton-sedes-ver:hover{
+    background-color: #293AD2;
+}
+
+/*FOOTER*/
+
+footer{
+    background-color: #0e1447;
+}
+
+.logo-2{
+    width: 250px;
+}
